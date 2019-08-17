@@ -42,6 +42,6 @@ end
 
 bubble_sort([4,3,78,2,0,2])
 
-bubble_sort_by(["hi","hello","fuck", "do", "me", "Solar", "hey"]) do |left,right|
+bubble_sort_by(["hi","hello","hey"]) do |left,right|
     left.length - right.length
 end
