@@ -18,7 +18,6 @@ def bubble_sort(arr)
     puts arr.join(",")
 end
 
-
 def bubble_sort_by (arr)
     j = 0
     while j < arr.size
